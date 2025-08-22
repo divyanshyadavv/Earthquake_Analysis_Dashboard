@@ -2,7 +2,6 @@
 This project presents an in-depth analysis of **global earthquakes of magnitude ≥6.0** recorded between 1900 and 2013.  
 The goal was to identify key seismic patterns across magnitude, depth, geography, and time **Tableau**.
 
----
 
 **Dataset**
 - **Source:** Publicly available earthquake data (USGS)  
@@ -14,7 +13,6 @@ The goal was to identify key seismic patterns across magnitude, depth, geography
   - Magnitude & Type  
   - Place  
 
----
 
 **Key Insights**
 1. **Magnitude Distribution**  
@@ -36,13 +34,14 @@ The goal was to identify key seismic patterns across magnitude, depth, geography
 5. **Measurement Methods**  
    - Older quakes were measured using `mb/ms`, while modern quakes use the more reliable `mw` scale.  
 
----
 
 **Visualizations**
 Tableau Dashboard
-![Dashboard](tableau/Dashboard.png)
+[Dashboard](Dashboard.png)
 
 - Magnitude & Depth Histograms  
 - Relationship between Depth and Magnitude  
 - Yearly and Monthly trends  
-- Geographic heatmap of quakes by place  
+- Geographic heatmap of quakes by place
+
+
