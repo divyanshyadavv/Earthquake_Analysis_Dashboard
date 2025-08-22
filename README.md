@@ -1,6 +1,6 @@
 # Earthquake Analysis Dashboard
 This project presents an in-depth analysis of **global earthquakes of magnitude ≥6.0** recorded between 1900 and 2013.  
-The goal was to identify key seismic patterns across magnitude, depth, geography, and time **Tableau**.
+The goal was to identify key seismic patterns across magnitude, depth, geography, and time using **Tableau**.
 
 
 **Dataset**
