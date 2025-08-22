@@ -16,7 +16,7 @@ The goal was to identify key seismic patterns across magnitude, depth, geography
 
 ---
 
-#Key Insights
+**Key Insights**
 1. **Magnitude Distribution**  
    - Most earthquakes fall in the **6.0–7.0** range.  
    - Very strong quakes (>8.5) are rare.  
@@ -38,31 +38,11 @@ The goal was to identify key seismic patterns across magnitude, depth, geography
 
 ---
 
-## 📈 Visualizations
-### Tableau Dashboard
+**Visualizations**
+Tableau Dashboard
 ![Dashboard](tableau/Dashboard.png)
 
 - Magnitude & Depth Histograms  
 - Relationship between Depth and Magnitude  
 - Yearly and Monthly trends  
 - Geographic heatmap of quakes by place  
-
-### Python Analysis (Notebook)
-- Exploratory Data Analysis (EDA) with Pandas & Matplotlib  
-- Magnitude and depth distributions  
-- Yearly earthquake trends  
-- Regional clustering  
-
----
-
-## 🛠️ Tech Stack
-- **Python:** Pandas, Matplotlib, Seaborn  
-- **Tableau:** Interactive dashboard for visualization  
-- **Excel:** Raw dataset  
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Earthquake-Analysis-1900-2013.git
