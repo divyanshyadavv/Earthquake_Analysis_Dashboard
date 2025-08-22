@@ -4,7 +4,7 @@ The goal was to identify key seismic patterns across magnitude, depth, geography
 
 ---
 
-#Dataset
+**Dataset**
 - **Source:** Publicly available earthquake data (USGS)  
 - **Records:** ~8,300 earthquakes  
 - **Columns include:**  
